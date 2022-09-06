@@ -1,0 +1,11 @@
+{
+  "name": "Personal Site",
+  "repo": "",
+  "challenger": "London App Brewery",
+  "challenge page": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287368",
+  "hosted": "",
+  "original": true,
+  "personal": false,
+  "thumbnail": "../thumbnail.png",
+  "technologies": ["html", "css"]
+}
