@@ -6,6 +6,6 @@
   "hosted": "https://lovely-dasik-9e9e05.netlify.app/",
   "original": true,
   "personal": false,
-  "thumbnail": "../thumbnail.png",
+  "thumbnail": "thumbnail.png",
   "technologies": ["html", "css"]
 }
